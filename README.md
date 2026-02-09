@@ -1,4 +1,4 @@
-# Enterprise Windows Server Infrastructure Case Study
+# Enterprise Windows Server Infrastructure Deployment
 
 This repository presents a comprehensive case study demonstrating hands-on experience with enterprise Windows Server administration, security enforcement, virtualization, and infrastructure services. The project simulates real-world on-premises system administration tasks commonly performed in enterprise environments.
 
